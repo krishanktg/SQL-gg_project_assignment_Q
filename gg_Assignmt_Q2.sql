@@ -24,4 +24,4 @@ SELECT app_id, count(*)
 select  sum(rd.total_payout_in_paise) as payout, sum(rd.total_revenue_in_paise) as revenue, oc.app_id from q2_rewards_details as rd
 join q2_user_offer_completion_data as oc
 on rd.reward_id=oc.reward_id
-GROUP BY oc.app_id
+GROUP BY oc.app_id ;
