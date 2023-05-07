@@ -17,3 +17,6 @@ Q3
 Here you are given the Install numbers, uninstall numbers, daily signups, number of daily active users and number of referrals made of the ‘Sikka’ app for the month of October 2022. Also, the
 Install numbers, uninstall numbers, daily signups, number of daily active users for the first 15 days of November is given. You need to predict the number of referrals for these 15 days of
 November
+
+Q4
+ find out if there is any anomaly present in the data for any of the apps present in the sample dataset.
